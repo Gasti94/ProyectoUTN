@@ -1,0 +1,47 @@
+* {
+  margin: 5px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.bodydiv {
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  background-color: #7fffd4;
+}
+
+
+
+.caja {
+  background-color: rgb(149, 221, 250);
+  color: rgb(0, 0, 0);
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  width: 90%;
+  height: 120px;
+  line-height: 120px;
+  text-align: center;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.media-footer {
+  padding: 1rem;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+}
+
+.divfooter {
+  display: flex;
+  padding: 1rem;
+}
+.divfooter img {
+  width: 40px;
+}
+
+.carousel-item img {
+  width: 90vw;  !important
+  height: 50vh;
+  margin: auto;
+}
