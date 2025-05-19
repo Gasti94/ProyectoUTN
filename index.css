@@ -1,8 +1,16 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f1ee;
+    margin: 0;
+    color: #333;
+}
+
 * {
   margin:  5px;
   padding: 5px;
   box-sizing: border-box;
 }
+
 
 /* nav */
 
@@ -18,16 +26,18 @@
 .banner img{
   width: 95vw;
   height:70vh;
-  margin: 10px;
-  padding: 10px;
-  background-size: cover;
+  justify-content: center;
 }
 
 /* card */
 
-
+.card-body
+{
+  background-color:rgb(226, 225, 225);
+}
 .galeria{
   display: flex;
+  justify-content: center;
 }
 
 
@@ -35,6 +45,7 @@
 
 
 /* Fin del header */
+
 
 
 /* footer */
