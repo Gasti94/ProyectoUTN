@@ -56,14 +56,14 @@ body {
   text-decoration: none;
 }
 
-.divfooter {
+.ulfooter {
   display: flex;
   padding: 1rem;
   list-style: none;
   justify-content: center;
 }
 
-.divfooter img {
+.ulfooter img {
   width: 55px;
 }
 

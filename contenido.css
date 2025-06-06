@@ -92,3 +92,36 @@ width: 150px;
 .divfooter img {
   width: 55px;
 }
+
+.contenido-premium {
+  background-color: #e7f5f1;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(67, 170, 139, 0.1);
+}
+
+.contenido-premium h2 {
+  color: #43aa8b;
+  margin-bottom: 1rem;
+}
+
+.premium-bloqueado {
+  border: 2px dashed #43aa8b;
+  padding: 1rem;
+  text-align: center;
+}
+
+.boton-premium {
+  display: inline-block;
+  margin-top: 1rem;
+  background-color: #0077b6;
+  color: white;
+  padding: 0.7rem 1.2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.boton-premium:hover {
+  background-color: #005f8c;
+}
